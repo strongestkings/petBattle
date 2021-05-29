@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "任务-Friend",
+      "appliesTo": "src/bean/Friend.java",
+      "type": "launch"
+    }
+  ]
+}

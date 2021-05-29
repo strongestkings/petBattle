@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/controller/FriendController.java=UTF-8
+encoding//src/controller/GashaponController.java=UTF-8
+encoding//src/controller/ShopController.java=UTF-8
+encoding//src/controller/UserController.java=UTF-8
+encoding//src/controller/UserEquipmentController.java=UTF-8
+encoding//src/controller/UserPetController.java=UTF-8
+encoding//src/controller/UserPropController.java=UTF-8
+encoding//src/game/BattleMgr.java=UTF-8
+encoding//src/game/Player.java=UTF-8
+encoding//src/result/RequestResult.java=UTF-8
